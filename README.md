@@ -16,6 +16,12 @@ Eu sou Maicon Douglas, um desenvolvedor Fullstack.
 
 
 </div>
+
+
+<br>
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maicondgllas&sho_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
+</div>
   
   ##
 
