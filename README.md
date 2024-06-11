@@ -16,6 +16,6 @@ I'm [Maicon Douglas](https://www.linkedin.com/in/viniaoliver/), a Fullstack Deve
 
 📈 my github stats
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniAOliver&show_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniAOliver&show_icons=true&langs_count=4&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maicondgllas&show_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondgllas&show_icons=true&langs_count=4&theme=transparent"/>
 </div>
