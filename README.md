@@ -1,5 +1,5 @@
-# Hello There 👋
-I'm [Maicon Douglas](https://www.linkedin.com/in/viniaoliver/), a Fullstack Developer.
+Fala meu nobre! 👋
+Eu sou Maicon Douglas, um desenvolvedor Fullstack.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
