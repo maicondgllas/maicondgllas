@@ -12,10 +12,4 @@ I'm [Maicon Douglas](https://www.linkedin.com/in/viniaoliver/), a Fullstack Deve
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
-<!--END_SECTION:waka-->
 
-📈 my github stats
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maicondgllas&show_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondgllas&show_icons=true&langs_count=4&theme=transparent"/>
-</div>
