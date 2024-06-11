@@ -1,6 +1,6 @@
 Fala meu nobre! 👋
 
-Eu sou Maicon Douglas, um desenvolvedor Fullstack.
+Eu sou o Douglas, um desenvolvedor Fullstack... ou quase isso.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
