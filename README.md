@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello There 👋
+I'm [Maicon Douglas](https://www.linkedin.com/in/viniaoliver/), a Fullstack Developer.
 
-<!--
-**maicondgllas/maicondgllas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
-Here are some ideas to get you started:
+- 💼 any freelance work? [Contact me.](https://wa.me/558896695586) :)
+- 💬 ask me about anything, i am happy to help;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**languages and tools:**  
+<div>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+</div>
+<!--END_SECTION:waka-->
+
+📈 my github stats
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniAOliver&show_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniAOliver&show_icons=true&langs_count=4&theme=transparent"/>
+</div>
